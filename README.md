@@ -1,3 +1,6 @@
-# 2WMLLinearRegression
+# Colab Notebooks
 
-Working with python for ML
+Working with python:
+- Machine Learning
+- Computer Vision
+- Artificial intelligence
